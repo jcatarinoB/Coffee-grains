@@ -1,5 +1,4 @@
-# Coffee-grains
-**Lista**
+# Coffee-grains#
 ### Integrantes ###
 
 - Luis Dario Mendoza
