@@ -1,8 +1,5 @@
 # Coffee-grains
 
-
-
-
 # Integrantes
 
 - Luis Dario Mendoza
@@ -16,5 +13,5 @@
 
 **Keyframes**
 
-![]()
+![](https://github.com/jcatarinoB/Coffee-grains/blob/main/Keyframes.jpg)
 
