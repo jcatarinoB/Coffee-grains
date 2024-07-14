@@ -7,7 +7,14 @@
 ## Planteamiento 
 <p>
   En nuestro proyecto reconocemos la necesidad de optimizar nuestros procesos para asegurar la eficiencia , calidad y rentabilidad. Por ello, proponemos la implementacion de un sistema de gestion desde el control de stock hasta la facilitacion de recetas y el registro de ventas, con el objetivo de mejorar significativamente las operaciones  
+</p> 
+<p>
+### Control de stock
+La gestion del stock es fundamental para evitar perdidas por productos caducados o agotados 
 </p>
+-Podremos llevar un registro detallado de todos los ingredientes y productos                                                               
+-Se reducen los riesgos de tener errores 
+  
 # Integrantes 
 
 - Luis Dario Mendoza
