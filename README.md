@@ -8,7 +8,7 @@
 - Andrea Peña Leal
 
 ## Planteamiento
-La gestion eficaz de inventarios 
+La gestion eficaz de inventarios y el control preciso
 
 **Diagrame de Contexto**
 
