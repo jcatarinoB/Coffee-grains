@@ -8,7 +8,7 @@
 - Andrea Peña Leal
 
 ## Planteamiento
-La gestion eficaz de inventarios y el control preciso de venta son esenciales. La propuesta 
+La gestion eficaz de inventarios y el control preciso de venta son esenciales. La propuesta de este proyecto es facilitar el control de stock, además de proporcionar recetas a los trabajadores y registrar ventas diarias para la realización de cortes de caja. Está dirigida a microempresas que buscan optimizar su gestión operativa.
 
 **Diagrame de Contexto**
 
