@@ -7,6 +7,9 @@
 - Juan Manuel Catarino Barrios
 - Andrea Peña Leal
 
+## Planteamiento
+La gestion eficaz de inventarios 
+
 **Diagrame de Contexto**
 
 ![](https://github.com/jcatarinoB/Coffee-grains/blob/main/Diagrama%20de%20Contexto.jpg)
