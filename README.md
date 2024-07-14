@@ -8,7 +8,7 @@
 - Andrea Peña Leal
 
 ## Planteamiento
-La gestion eficaz de inventarios y el control preciso
+La gestion eficaz de inventarios y el control preciso de venta son esenciales. La propuesta 
 
 **Diagrame de Contexto**
 
