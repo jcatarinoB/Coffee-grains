@@ -23,6 +23,7 @@ Desarrollar una aplicacion web que permita a los trabajadores gestionar eficient
 ## Tipo de mercado
 Mercado local
 Características: Clientes de la zona cercana a la cafetería, residentes y trabajadores locales.
+
 Estrategias: Promociones específicas para residentes, colaboración con negocios locales, eventos comunitarios.
 
 **Diagrame de Contexto**
