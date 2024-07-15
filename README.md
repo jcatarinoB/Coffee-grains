@@ -1,4 +1,4 @@
-# Coffee-grains
+# Breaw bits
 
 # Integrantes
 
@@ -6,6 +6,7 @@
 - Brandom Diego Islas Lizardi
 - Juan Manuel Catarino Barrios
 - Andrea Peña Leal
+  
 
 ## Planteamiento
 
