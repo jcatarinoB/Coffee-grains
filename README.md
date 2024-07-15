@@ -65,28 +65,29 @@ Estrategias: Promociones específicas para residentes, colaboración con negocio
 
 ## Mision 
 
--Ser una empresa que brinde aplicaciones, eficientes, para los procesos que requiera una microempresa,empresa, brindando la excelncia en nuestros servicios.
+- Ser una empresa que brinde aplicaciones, eficientes, para los procesos que requiera una microempresa,empresa, brindando la excelncia en nuestros servicios.
 
 ## Vision 
 
--Pocisionar nuestra empresa en el mercado, realizar mejoras en las aplicaciones, asi como, la adaptacion de las demandas del mercado.
+- Pocisionar nuestra empresa en el mercado, realizar mejoras en las aplicaciones, asi como, la adaptacion de las demandas del mercado.
 
 ## Valores
--Responsabilidad: En el control de stock, revisando continuamente para la eficacia.
+- Responsabilidad: En el control de stock, revisando continuamente para la eficacia.
 
--Empatia: Comprender los valores de cada uno de los laboradores.
+- Empatia: Comprender los valores de cada uno de los laboradores.
 
--Honestidad: Darles a nuestros clientes la mejor calidad en nuestro servicio.
+- Honestidad: Darles a nuestros clientes la mejor calidad en nuestro servicio.
 
 **Justificacion**
 En nuestro proyecto reconocemos la necesidad de optimizar nuestros procesos para asegurar la eficiencia, calidad y rentabilidad. Por ello, proponemos la implementacion de un sistema de gestion donde en control de stock hasta la facilitacion de recetas y el registro de ventas, con el objetivo de mejorar significativamente operaciones.
---**Control de Stock.**
+- **Control de Stock.**
 La gestion del stock es fundamental para evitar perdidas por productos caducados o agotados.
-  -Podemos llevar un registro detallado de todos los ingredientes y productos.
+  - Podemos llevar un registro detallado de todos los ingredientes y productos.
   - Se rediciran los riesgos de tener errores.
---**Acceso a las Recetas.**
-  -Implementaremos un sistema que proporcione acceso facil y rapido a las recetas.
-  -Asegurando que todos los empleados sigan los estandares de preparacion establecidos, asi mismo reduciremos el desperdicio al optimizar la preparacion y la porcion de ingredientes.
+- **Acceso a las Recetas.**
+  - Implementaremos un sistema que proporcione acceso facil y rapido a las recetas.
+  - Asegurando que todos los empleados sigan los estandares de preparacion establecidos, asi mismo reduciremos el desperdicio al optimizar la preparacion y la porcion de ingredientes.
+    
 Esta nos permitira la expereriencia del cliente, maximizar la rentabilidad al reducir costos operativos inecesarios y mejorar la eficiencia. Tambien se fortalecera la posicion de la microempresa en el mercado al enfocarse en la calidad del servicio y satisfaccion del cliente.
 
 ## Cronograma de actvidades
