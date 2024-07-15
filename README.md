@@ -49,6 +49,18 @@ Estrategias: Promociones específicas para residentes, colaboración con negocio
 
 -Honestidad: Darles a nuestros clientes la mejor calidad en nuestro servicio.
 
+**Justificacion**
+En nuestro proyecto reconocemos la necesidad de optimizar nuestros procesos para asegurar la eficiencia, calidad y rentabilidad. Por ello, proponemos la implementacion de un sistema de gestion donde en control de stock hasta la facilitacion de recetas y el registro de ventas, con el objetivo de mejorar significativamente operaciones.
+--Control de stock
+La gestion del stock es fundamental para evitar perdidas por productos caducados o agotados.
+  -Podemos llevar un registro detallado de todos los ingredientes y productos.
+  - Se rediciran los riesgos de tener errores.
+-- Acceso a las recetas.
+  -Implementaremos un sistema que proporcione acceso facil y rapido a las recetas.
+  -Asegurando que todos los empleados sigan los estandares de preparacion establecidos, asi mismo reduciremos el desperdicio al optimizar la preparacion y la porcion de ingredientes.
+Esta nos permitira la expereriencia del cliente, maximizar la rentabilidad al reducir costos operativos inecesarios y mejorar la eficiencia. Tambien se fortalecera la posicion de la microempresa en el mercado al enfocarse en la calidad del servicio y satisfaccion del cliente.
+
+
 
 **Diagrame de Contexto**
 
