@@ -3,7 +3,7 @@
 # Integrantes
 
 - Luis Dario Mendoza Morales
-- Brandom Diego Islas Lizardi
+- Brandon Diego Islas Lizardi
 - Juan Manuel Catarino Barrios
 - Andrea Peña Leal
 
