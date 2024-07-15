@@ -95,6 +95,13 @@ Esta nos permitira la expereriencia del cliente, maximizar la rentabilidad al re
 
 ![](https://github.com/jcatarinoB/Coffee-grains/blob/main/Cronograma%20de%20actvidades.png)
 
+## Modelo tipo cascada
+
+El proyecto se divide en distintas fases secuenciales, donde el equipo puede pasar a la siguiente fase sólo cuando se haya completado la anterior. 
+
+Requisitos
+
+Como ya hemos mencionado es la fase más importante. Durante esta fase normalmente se realizan entrevistas, reuniones e intercambio de opiniones para definir los requisitos para el proceso de desarrollo y el resultado final del proyecto. Se analizan los requisitos recopilados y documentados. Después se decide qué tareas habrá que completar para llegar al resultado final, se establece el plan de proyecto con los costes y cesionarios para cada tarea. 
 
 **Diagrame de Contexto**
 
