@@ -60,6 +60,10 @@ La gestion del stock es fundamental para evitar perdidas por productos caducados
   -Asegurando que todos los empleados sigan los estandares de preparacion establecidos, asi mismo reduciremos el desperdicio al optimizar la preparacion y la porcion de ingredientes.
 Esta nos permitira la expereriencia del cliente, maximizar la rentabilidad al reducir costos operativos inecesarios y mejorar la eficiencia. Tambien se fortalecera la posicion de la microempresa en el mercado al enfocarse en la calidad del servicio y satisfaccion del cliente.
 
+## Cronograma de actvidades
+
+
+
 
 
 **Diagrame de Contexto**
