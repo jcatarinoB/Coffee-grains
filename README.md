@@ -15,7 +15,8 @@ Desarrollar una aplicacion web que permita a los trabajadores gestionar eficient
 ## Objetivos especificos 
 1.-control de stock   
 -Implementar un sistema de inventario que permita registrar, actualizar y monitoriar las existencias en productos en productos en tiempo real 
-2.-Provicion de recestas 
+2.-Provicion de recestas  
+-implementacion una funcionalidad para generar listas de ingredientes 
 3.-Registro y gestion de ventas 
 4.-Interfaz de usuario intuitiva  
 5.-Manteniemto y estabilidad  
