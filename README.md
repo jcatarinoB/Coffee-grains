@@ -125,7 +125,7 @@ En esta etapa, nosotros como responsables probamos el software  y detectamos los
 
 **WareFlames**
 
-![]()
+![](https://github.com/jcatarinoB/Coffee-grains/blob/main/Inicio.png)
 ![]()
 ![]()
 ![]()
