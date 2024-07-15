@@ -123,7 +123,14 @@ En esta etapa, nosotros como responsables probamos el software  y detectamos los
 
 ![](https://github.com/jcatarinoB/Coffee-grains/blob/main/Keyframes.jpg)
 
+**WareFlames**
 
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
 
 **Maquetado**
 
