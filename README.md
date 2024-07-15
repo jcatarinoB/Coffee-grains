@@ -1,6 +1,6 @@
 # Breaw bites
 
-# Logo #
+# Logo de la #
 
 ![](https://github.com/jcatarinoB/Coffee-grains/blob/main/Logo%20(2)_Mesa%20de%20trabajo%201.png)
 
