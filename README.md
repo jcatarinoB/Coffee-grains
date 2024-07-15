@@ -8,13 +8,16 @@
 - Andrea Peña Leal
 
 ## Planteamiento
+
 La gestion eficaz de inventarios y el control preciso de venta son esenciales. La propuesta de este proyecto es facilitar el control de stock, además de proporcionar recetas a los trabajadores y registrar ventas diarias para la realización de cortes de caja. Está dirigida a microempresas que buscan optimizar su gestión operativa.
 
 
-## Objetivos del proyecto 
+## Objetivos del proyecto
+
 Desarrollar una aplicacion web que permita a los trabajadores gestionar eficientemente el inventario proporcionar recetas y registrar las ventas diarias para facilitar los cartes de caja 
 
 ## Objetivos especificos 
+
 1.-control de stock   
 -Implementar un sistema de inventario que permita registrar, actualizar y monitoriar las existencias en productos en productos en tiempo real 
 2.-Provicion de recestas  
@@ -37,12 +40,13 @@ Desarrollar una aplicacion web que permita a los trabajadores gestionar eficient
 3.- Responsividad: La página debe adaptarse correctamente a diferentes dispositivos y tamaños de pantalla.
 
 **No Funcionales**
-...
+
 1.- Escalabilidad: El sistema debe ser capaz de manejar una gran cantidad de usuarios sin afectar en el rendimiento.
 2.- Disponibilidad: La página debe estar disponible el 99.9% del tiempo, con planes de contingencia para tiempos de inactividad.
 3.- Compatibilidad: La página debe ser compatible con los navegadores web más populares como Chrome, Firefox, etc.
 
 ## Tipo de mercado
+
 Mercado local
 
 Características: Clientes de la zona cercana a la cafetería, residentes y trabajadores locales.
