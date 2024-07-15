@@ -52,7 +52,7 @@ Estrategias: Promociones específicas para residentes, colaboración con negocio
 
 **Diagrame de Contexto**
 
-![](https://github.com/jcatarinoB/Coffee-grains/blob/main/Diagrama%20de%20Contexto.jpg)
+![](https://github.com/jcatarinoB/Coffee-grains/blob/main/Diagrama.png)
 
 **Keyframes**
 
