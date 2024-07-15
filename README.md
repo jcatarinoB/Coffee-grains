@@ -34,6 +34,10 @@ Características: Clientes de la zona cercana a la cafetería, residentes y trab
 
 Estrategias: Promociones específicas para residentes, colaboración con negocios locales, eventos comunitarios.
 
+## Mision 
+
+-Ser una empresa que brinde aplicaciones, eficientes, para los procesos que requiera una microempresa,empresa, brindando la excelncia en nuestros servicios.
+
 **Diagrame de Contexto**
 
 ![](https://github.com/jcatarinoB/Coffee-grains/blob/main/Diagrama%20de%20Contexto.jpg)
