@@ -18,21 +18,23 @@ Desarrollar una aplicacion web que permita a los trabajadores gestionar eficient
 
 ## Objetivos especificos 
 
-1.-**Control de Stock**   
+**1.- Control de Stock**   
 -Implementar un sistema de inventario que permita registrar, actualizar y monitoriar las existencias en productos en productos en tiempo real 
 
-2.-**Provicion de Recestas**  
+**2.- Provicion de Recestas**  
 -Implementacion una funcionalidad para generar listas de ingredientes necesarios basados en las recetas seleccionados
+
 -Intregar la gestion del stock con las recetas de modo que al utilizar ingredientes en una receta , el invitentario se actualize automaticamente  
 
-3.-**Registro y Gestion de Ventas**  
--Desarrollar un modulo de ventas que permita registrar transacciones de manera eficiente  
+**3.- Registro y Gestion de Ventas**  
+-Desarrollar un modulo de ventas que permita registrar transacciones de manera eficiente 
+
 -Implementar la capacidad de generar recibos  y mantener un historial de ventas  
 
-4.-**Interfaz de Usuario Intuitiva**    
+**4.- Interfaz de Usuario Intuitiva**    
 -Diseñar una interafaz amigable y facil de usar que permita a los trabajadores   
 
-5.-**Manteniemto y estabilidad**  
+**5.- Manteniemto y estabilidad**  
 -Diseñar la aplicacion ed manera que pueda escalarse facilmente en caso de que se necesite ampliar su capacidad o funcionalidades en el futuro  
 
 ## Requerimientos
@@ -78,11 +80,11 @@ Estrategias: Promociones específicas para residentes, colaboración con negocio
 
 **Justificacion**
 En nuestro proyecto reconocemos la necesidad de optimizar nuestros procesos para asegurar la eficiencia, calidad y rentabilidad. Por ello, proponemos la implementacion de un sistema de gestion donde en control de stock hasta la facilitacion de recetas y el registro de ventas, con el objetivo de mejorar significativamente operaciones.
---Control de stock
+-- **Control de Stock.**
 La gestion del stock es fundamental para evitar perdidas por productos caducados o agotados.
   -Podemos llevar un registro detallado de todos los ingredientes y productos.
   - Se rediciran los riesgos de tener errores.
--- Acceso a las recetas.
+-- **Acceso a las Recetas.**
   -Implementaremos un sistema que proporcione acceso facil y rapido a las recetas.
   -Asegurando que todos los empleados sigan los estandares de preparacion establecidos, asi mismo reduciremos el desperdicio al optimizar la preparacion y la porcion de ingredientes.
 Esta nos permitira la expereriencia del cliente, maximizar la rentabilidad al reducir costos operativos inecesarios y mejorar la eficiencia. Tambien se fortalecera la posicion de la microempresa en el mercado al enfocarse en la calidad del servicio y satisfaccion del cliente.
