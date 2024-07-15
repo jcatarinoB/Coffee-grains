@@ -6,7 +6,10 @@
 - Brandom Diego Islas Lizardi
 - Juan Manuel Catarino Barrios
 - Andrea Peña Leal
+
+  ## Organigrama ##
   
+  ![](https://github.com/jcatarinoB/Coffee-grains/blob/main/Organigrama.jpg)
 
 ## Planteamiento
 
