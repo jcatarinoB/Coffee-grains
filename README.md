@@ -18,14 +18,14 @@ Desarrollar una aplicacion web que permita a los trabajadores gestionar eficient
 -Implementar un sistema de inventario que permita registrar, actualizar y monitoriar las existencias en productos en productos en tiempo real 
 2.-Provicion de recestas  
 -Implementacion una funcionalidad para generar listas de ingredientes necesarios basados en las recetas seleccionados
--Intregar la gestion del stock con las recetas de modo que al utilizar ingredientes en una receta , el invitentario se actualize automaticamente 
+-Intregar la gestion del stock con las recetas de modo que al utilizar ingredientes en una receta , el invitentario se actualize automaticamente  
 3.-Registro y gestion de ventas  
--Desarrollar un modulo de ventas que permita registrar transacciones de manera eficiente 
--Implementar la capacidad de generar recibos  y mantener un historial de ventas 
-4.-Interfaz de usuario intuitiva  
--Diseñar una interafaz amigable y facil de usar que permita a los trabajadores 
+-Desarrollar un modulo de ventas que permita registrar transacciones de manera eficiente  
+-Implementar la capacidad de generar recibos  y mantener un historial de ventas   
+4.-Interfaz de usuario intuitiva    
+-Diseñar una interafaz amigable y facil de usar que permita a los trabajadores   
 5.-Manteniemto y estabilidad  
--Diseñar la aplicacion ed manera que pueda escalarse facilmente en caso de que se necesite ampliar su capacidad o funcionalidades en el futuro
+-Diseñar la aplicacion ed manera que pueda escalarse facilmente en caso de que se necesite ampliar su capacidad o funcionalidades en el futuro  
 
 ## Tipo de mercado
 Mercado local
