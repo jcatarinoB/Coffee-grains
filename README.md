@@ -78,7 +78,8 @@ Estrategias: Promociones específicas para residentes, colaboración con negocio
 
 - Honestidad: Darles a nuestros clientes la mejor calidad en nuestro servicio.
 
-**Justificacion**
+## Justificacion
+
 En nuestro proyecto reconocemos la necesidad de optimizar nuestros procesos para asegurar la eficiencia, calidad y rentabilidad. Por ello, proponemos la implementacion de un sistema de gestion donde en control de stock hasta la facilitacion de recetas y el registro de ventas, con el objetivo de mejorar significativamente operaciones.
 - **Control de Stock.**
 La gestion del stock es fundamental para evitar perdidas por productos caducados o agotados.
