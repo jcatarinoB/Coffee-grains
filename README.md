@@ -13,6 +13,7 @@ La gestion eficaz de inventarios y el control preciso de venta son esenciales. L
 
 ## Objetivos del proyecto 
 Desarrollar una aplicacion web que permita a los trabajadores gestionar eficientemente el inventario proporcionar recetas y registrar las ventas diarias para facilitar los cartes de caja 
+
 ## Objetivos especificos 
 1.-control de stock   
 -Implementar un sistema de inventario que permita registrar, actualizar y monitoriar las existencias en productos en productos en tiempo real 
@@ -26,6 +27,18 @@ Desarrollar una aplicacion web que permita a los trabajadores gestionar eficient
 -Diseñar una interafaz amigable y facil de usar que permita a los trabajadores   
 5.-Manteniemto y estabilidad  
 -Diseñar la aplicacion ed manera que pueda escalarse facilmente en caso de que se necesite ampliar su capacidad o funcionalidades en el futuro  
+
+## Requerimientos
+
+**Funcionales**
+1.- Navegación: El sitio debe tener una navegación clara y accesible para moverse entre diferentes secciones.
+2.- Gestión de Contenidos: La página debe permitir a los gerentes agregar, editar y eliminar contenido.
+3.- Responsividad: La página debe adaptarse correctamente a diferentes dispositivos y tamaños de pantalla.
+
+**No Funcionales**
+1.- Escalabilidad: El sistema debe ser capaz de manejar una gran cantidad de usuarios sin afectar en el rendimiento.
+2.- Disponibilidad: La página debe estar disponible el 99.9% del tiempo, con planes de contingencia para tiempos de inactividad.
+3.- Compatibilidad: La página debe ser compatible con los navegadores web más populares como Chrome, Firefox, etc.
 
 ## Tipo de mercado
 Mercado local
