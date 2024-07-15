@@ -36,3 +36,7 @@ Estrategias: Promociones específicas para residentes, colaboración con negocio
 
 ![](https://github.com/jcatarinoB/Coffee-grains/blob/main/Keyframes.jpg)
 
+**Maquetado**
+
+![].(https://github.com/jcatarinoB/Coffee-grains/blob/main/1.png).
+
