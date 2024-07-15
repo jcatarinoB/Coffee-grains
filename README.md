@@ -13,7 +13,7 @@ La gestion eficaz de inventarios y el control preciso de venta son esenciales. L
 ## Objetivos del proyecto 
 Desarrollar una aplicacion web que permita a los trabajadores gestionar eficientemente el inventario proporcionar recetas y registrar las ventas diarias para facilitar los cartes de caja 
 ## Objetivos especificos 
-1.-control de stock 
+1.-control de stock   
 -Implementar un sistema de inventario que permita registrar, actualizar y monitoriar las existencias en productos en productos en tiempo real 
 2.-Provicion de recestas 
 3.-Registro y gestion de ventas 
