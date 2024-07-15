@@ -103,6 +103,14 @@ Requisitos
 
 Como ya hemos mencionado es la fase más importante. Durante esta fase normalmente se realizan entrevistas, reuniones e intercambio de opiniones para definir los requisitos para el proceso de desarrollo y el resultado final del proyecto. Se analizan los requisitos recopilados y documentados. Después se decide qué tareas habrá que completar para llegar al resultado final, se establece el plan de proyecto con los costes y cesionarios para cada tarea. 
 
+Diseño y construcción
+
+Esta etapa puede contener procesos de implementación, desarrollo y codificación.
+
+Fase de prueba
+
+En esta etapa, nosotros como responsables probamos el software  y detectamos los errores.
+
 **Diagrame de Contexto**
 
 ![](https://github.com/jcatarinoB/Coffee-grains/blob/main/Diagrama.png)
