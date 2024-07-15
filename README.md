@@ -20,6 +20,11 @@ Desarrollar una aplicacion web que permita a los trabajadores gestionar eficient
 4.-Interfaz de usuario intuitiva  
 5.-Manteniemto y estabilidad  
 
+## Tipo de mercado
+Mercado local
+Características: Clientes de la zona cercana a la cafetería, residentes y trabajadores locales.
+Estrategias: Promociones específicas para residentes, colaboración con negocios locales, eventos comunitarios.
+
 **Diagrame de Contexto**
 
 ![](https://github.com/jcatarinoB/Coffee-grains/blob/main/Diagrama%20de%20Contexto.jpg)
