@@ -127,7 +127,7 @@ En esta etapa, nosotros como responsables probamos el software  y detectamos los
 
 ![](https://github.com/jcatarinoB/Coffee-grains/blob/main/Inicio.png)
 ![](https://github.com/jcatarinoB/Coffee-grains/blob/main/Favoritos.png)
-![]()
+![](https://github.com/jcatarinoB/Coffee-grains/blob/main/Contactos.png)
 ![]()
 ![]()
 ![]()
