@@ -42,6 +42,14 @@ Estrategias: Promociones específicas para residentes, colaboración con negocio
 
 -Pocisionar nuestra empresa en el mercado, realizar mejoras en las aplicaciones, asi como, la adaptacion de las demandas del mercado.
 
+## Valores
+-Responsabilidad: En el control de stock, revisando continuamente para la eficacia.
+
+-Empatia: Comprender los valores de cada uno de los laboradores.
+
+-Honestidad: Darles a nuestros clientes la mejor calidad en nuestro servicio.
+
+
 **Diagrame de Contexto**
 
 ![](https://github.com/jcatarinoB/Coffee-grains/blob/main/Diagrama%20de%20Contexto.jpg)
