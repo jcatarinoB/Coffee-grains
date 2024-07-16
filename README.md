@@ -73,11 +73,11 @@ Estrategias: Promociones específicas para residentes, colaboración con negocio
 
 ## Mision 
 
-- Ser una empresa que brinde aplicaciones, eficientes, para los procesos que requiera una microempresa,empresa, brindando la excelncia en nuestros servicios.
+- Crear experiencias web innovadoras y funcionales que superen las expectativas de nuestros clientes. Nos dedicamos a diseñar y desarrollar sitios web de alta calidad que no solo sean estéticamente atractivos, sino también efectivos en la promoción de la marca y la mejora de la experiencia del usuario.
 
 ## Vision 
 
-- Pocisionar nuestra empresa en el mercado, realizar mejoras en las aplicaciones, asi como, la adaptacion de las demandas del mercado.
+- Convertirnos en líderes reconocidos a nivel mundial en el diseño y desarrollo de páginas web, destacándonos por nuestra creatividad, expertise técnico y compromiso con la satisfacción del cliente. Buscamos ser la opción preferida de empresas y emprendedores que buscan potenciar su presencia online de manera efectiva y profesional.
 
 ## Valores
 - Responsabilidad: En el control de stock, revisando continuamente para la eficacia.
