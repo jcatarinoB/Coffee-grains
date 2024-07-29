@@ -82,10 +82,14 @@ Turistas: Personas que visitan la ciudad y buscan una experiencia local única.
 
 **Segmentación del Mercado**
 
+
+
 **Segmentación Demográfica:**
 
 Edad: Jóvenes adultos (18-35 años), adultos (36-50 años).
+
 Género: Ambos géneros.
+
 Ingreso: Ingresos bajos, medios y altos.
 
 
