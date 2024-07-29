@@ -103,6 +103,63 @@ Esta nos permitira la expereriencia del cliente, maximizar la rentabilidad al re
 
 ![](https://github.com/jcatarinoB/Coffee-grains/blob/main/proyecto-cronograma.png)
 
+## Alcances del proyecto
+
+**Desarrollo del Sistema de Gestión de Stock:**
+
+Implementación de un módulo de gestión de stock accesible solo para el gerente y la dueña.
+
+Funcionalidad para agregar y eliminar productos del inventario.
+
+Capacidad para actualizar las cantidades de productos en stock.
+
+Configuración de alertas automáticas cuando los niveles de stock sean bajos.
+
+
+**Desarrollo del Módulo de Recetas:**
+
+Creación de una interfaz donde los empleados puedan visualizar diferentes recetas.
+
+Funcionalidad para que los usuarios marquen recetas como favoritas.
+
+Mostrar las recetas más populares basadas en las preferencias de los usuarios.
+
+
+**Desarrollo del Módulo de Favoritos de Clientes:**
+
+Implementación de una funcionalidad para que los usuarios marquen productos y recetas como favoritos.
+
+Creación de una interfaz para visualizar y gestionar la lista de favoritos.
+
+
+**Desarrollo de la Interfaz de Usuario:**
+
+Diseño de una página de login con autenticación segura.
+
+Creación de una interfaz de usuario amigable y responsiva que se adapte a diferentes dispositivos.
+
+Implementación de la paleta de colores en el diseño de la interfaz.
+
+
+**Seguridad y Control de Acceso:**
+
+Implementación de mecanismos de seguridad robustos para garantizar que solo el gerente y la dueña accedan al módulo de stock.
+
+
+**Optimización del Rendimiento:**
+
+Garantizar que el sistema responda rápidamente a las acciones .
+
+Diseño del sistema para ser escalable y manejar un aumento en el número de usuarios y datos.
+
+
+**Mantenimiento y Actualizaciones:**
+
+Desarrollo de un código bien estructurado y documentado para facilitar el mantenimiento y futuras actualizaciones.
+
+Capacidad de actualizar el sistema con nuevas funcionalidades sin interrupciones .
+
+
 ## Modelo tipo cascada
 
 El proyecto se divide en distintas fases secuenciales, donde el equipo puede pasar a la siguiente fase sólo cuando se haya completado la anterior. 
