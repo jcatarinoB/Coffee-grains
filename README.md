@@ -65,11 +65,48 @@ Desarrollar una aplicacion web que permita a los trabajadores gestionar eficient
 
 ## Tipo de mercado
 
-Mercado local
+**Mercado Real:**
 
-Características: Clientes de la zona cercana a la cafetería, residentes y trabajadores locales.
+Clientes Actuales: Este segmento incluye a los clientes que frecuentaran la cafetería Coffee Beans. Se trata de personas que ya están familiarizadas con la calidad de los productos y servicios ofrecidos.
 
-Estrategias: Promociones específicas para residentes, colaboración con negocios locales, eventos comunitarios.
+Perfil de Clientes: Principalmente jóvenes adultos y profesionales que buscan un lugar cómodo para trabajar, reunirse o relajarse, así como personas que aprecian el café de calidad y los productos artesanales.
+
+
+**Mercado Potencial:**
+
+Nuevos Clientes: Incluye a personas que aún no conocen la cafetería pero que podrían estar interesadas en sus productos y servicios debido a campañas de marketing, recomendaciones, o la ubicación del local.
+
+Expansión Geográfica: Considerar la posibilidad de abrir nuevas sucursales en diferentes ubicaciones para atraer a un público más amplio.
+
+Turistas: Personas que visitan la ciudad y buscan una experiencia local única.
+
+**Segmentación del Mercado**
+
+**Segmentación Demográfica:**
+
+Edad: Jóvenes adultos (18-35 años), adultos (36-50 años).
+Género: Ambos géneros.
+Ingreso: Ingresos bajos, medios y altos.
+
+
+**Segmentación Geográfica:**
+
+Ubicación: Clientes locales de la zona donde se encuentra la cafetería. Posibilidad de expansión a otras partes.
+
+
+**Segmentación Psicográfica:**
+
+Valores: Clientes que valoran la sostenibilidad, la calidad de los ingredientes y el apoyo a negocios locales.
+
+
+**Segmentación Conductual:**
+
+Frecuencia de Compra: Clientes regulares que visitan la cafetería varias veces a la semana o al mes.
+
+Lealtad a la Marca: Clientes que muestran lealtad hacia la marca y prefieren Coffee Beans sobre otras opciones.
+
+Beneficios Buscados: Calidad , ambiente acogedor, productos únicos .
+
 
 ## Mision 
 
