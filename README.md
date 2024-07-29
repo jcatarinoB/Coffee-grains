@@ -101,7 +101,7 @@ Esta nos permitira la expereriencia del cliente, maximizar la rentabilidad al re
 
 ## Cronograma de actvidades
 
-![](https://github.com/jcatarinoB/Coffee-grains/blob/main/Cronograma%20de%20actvidades.png)
+![](https://github.com/jcatarinoB/Coffee-grains/blob/main/proyecto-cronograma.png)
 
 ## Modelo tipo cascada
 
