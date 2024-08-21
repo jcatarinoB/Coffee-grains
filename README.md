@@ -44,7 +44,7 @@ Desarrollar una aplicacion web que permita a los trabajadores gestionar eficient
 **1.- Control de Stock**   
 -Implementar un sistema de inventario que permita registrar, actualizar y monitoriar las existencias en productos en productos en tiempo real 
 
-**2.- Provicion de Recestas**  
+**2.- Provicion de Recetas**  
 -Implementacion una funcionalidad para generar listas de ingredientes necesarios basados en las recetas seleccionados
 
 -Intregar la gestion del stock con las recetas de modo que al utilizar ingredientes en una receta , el invitentario se actualize automaticamente  
