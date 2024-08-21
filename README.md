@@ -15,6 +15,21 @@
   
   ![](https://github.com/jcatarinoB/Coffee-grains/blob/main/Organigrama.jpg)
 
+  ## Mision 
+
+- Crear experiencias web innovadoras y funcionales que superen las expectativas de nuestros clientes. Nos dedicamos a diseñar y desarrollar sitios web de alta calidad que no solo sean estéticamente atractivos, sino también efectivos en la promoción de la marca y la mejora de la experiencia del usuario.
+
+## Vision 
+
+- Convertirnos en líderes reconocidos a nivel mundial en el diseño y desarrollo de páginas web, destacándonos por nuestra creatividad, expertise técnico y compromiso con la satisfacción del cliente. Buscamos ser la opción preferida de empresas y emprendedores que buscan potenciar su presencia online de manera efectiva y profesional.
+
+## Valores
+- Responsabilidad: En el control de stock, revisando continuamente para la eficacia.
+
+- Empatia: Comprender los valores de cada uno de los laboradores.
+
+- Honestidad: Darles a nuestros clientes la mejor calidad en nuestro servicio.
+
 ## Planteamiento
 
 La gestion eficaz de inventarios y el control preciso de venta son esenciales. La propuesta de este proyecto es facilitar el control de stock, además de proporcionar recetas a los trabajadores y registrar ventas diarias para la realización de cortes de caja. Está dirigida a microempresas que buscan optimizar su gestión operativa.
@@ -40,7 +55,7 @@ Desarrollar una aplicacion web que permita a los trabajadores gestionar eficient
 -Implementar la capacidad de generar recibos  y mantener un historial de ventas  
 
 **4.- Interfaz de Usuario Intuitiva**    
--Diseñar una interafaz amigable y facil de usar que permita a los trabajadores   
+-Diseñar una interfaz de usuario que sea altamente intuitiva y fácil de usar, con el objetivo de mejorar la eficiencia de los trabajadores.
 
 **5.- Manteniemto y estabilidad**  
 -Diseñar la aplicacion ed manera que pueda escalarse facilmente en caso de que se necesite ampliar su capacidad o funcionalidades en el futuro  
@@ -112,20 +127,7 @@ Lealtad a la Marca: Clientes que muestran lealtad hacia la marca y prefieren Cof
 Beneficios Buscados: Calidad , ambiente acogedor, productos únicos .
 
 
-## Mision 
 
-- Crear experiencias web innovadoras y funcionales que superen las expectativas de nuestros clientes. Nos dedicamos a diseñar y desarrollar sitios web de alta calidad que no solo sean estéticamente atractivos, sino también efectivos en la promoción de la marca y la mejora de la experiencia del usuario.
-
-## Vision 
-
-- Convertirnos en líderes reconocidos a nivel mundial en el diseño y desarrollo de páginas web, destacándonos por nuestra creatividad, expertise técnico y compromiso con la satisfacción del cliente. Buscamos ser la opción preferida de empresas y emprendedores que buscan potenciar su presencia online de manera efectiva y profesional.
-
-## Valores
-- Responsabilidad: En el control de stock, revisando continuamente para la eficacia.
-
-- Empatia: Comprender los valores de cada uno de los laboradores.
-
-- Honestidad: Darles a nuestros clientes la mejor calidad en nuestro servicio.
 
 ## Justificacion
 
